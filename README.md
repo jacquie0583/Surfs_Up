@@ -33,6 +33,6 @@ The analysis was designed to assess the temperature statistics for June and Dece
 </p> 
 
 #  Summary
-The temperatures’ standard deviation is 3.25 in June and 3.75 in December-- making a .5 difference in the two different seasons.  The averages temperatures between the two months is 3.3 degrees.  Overall, the seasons analyzed are very mild.
+The temperatures’ standard deviation is 3.25 in June and 3.75 in December-- making a .5 difference in the two different seasons.  The averages temperatures variation is 3.3 degrees.  Overall, the seasons analyzed are very mild.
 Although we have uncovered a general trend in the weather for the months requested other attribute to the weather such as precipitation, etc., will influence the traffic flow through the shop. A very insightful analysis would include identifying high areas of traffic flow within the city to capitalize on profit the statistics of high traffic and other parameters to maximize your possible investment.  
 
