@@ -1,4 +1,4 @@
-# Surfs_Up:  Analyzing weather data in jupyter notebook and making an app
+# Surfs_Up:  Analyzing weather data with SQL and Matplotlib to make an app
 
 ##  Background
 Climate Analysis and Data Exploration of Climate Database Using Python (Pandas, Matplotlib), SQLAlchemy (ORM Queries) and Flask
