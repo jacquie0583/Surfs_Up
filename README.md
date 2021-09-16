@@ -2,6 +2,10 @@
 
 ##  Background
 Climate Analysis and Data Exploration of Climate Database Using Python (Pandas, Matplotlib), SQLAlchemy (ORM Queries) and Flask
+##  Resources 
+Data Source: SurfsUp_Challenge_starter_code.ipynb named later as SurfsUp_Challenge.ipynb
+Data File: hawaii.sqlite
+Software: Matplotli 3.2.2, Python 3.9, Visual Studio Code 1.50.0, Anaconda 4.8.5, Jupyter Notebook 6.1.4, Pandas, Numpy, Sqlalchemy.
 
 ## Overview of analysis
 The analysis was designed to assess the temperature statistics for June and December to assist in the decision to establish a surf shop assess its’ sustainability year around. We arrive at acquiring out temperature data by running two separate queries, one for June and the other December. Upon completion of our queries, we store the temperatures in a list then convert them to a dataframe. Statistical analysis was accomplished using the .describe() method.
